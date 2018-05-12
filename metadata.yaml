@@ -1,0 +1,33 @@
+_repo: TheophanoOper-in-drei-Aufz-gen_43687
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43687-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Graener, Paul
+    aliases:
+    - Graner, Paul Hermann Franz
+    - Gräner, Paul Hermann Franz
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '42366'
+    url: http://www.gutenberg.org/2009/agents/42366
+  - agent_name: Anthes, Otto
+    birthdate: 1867
+    gutenberg_agent_id: '42365'
+    url: http://www.gutenberg.org/2009/agents/42365
+description: ''
+gutenberg_issued: '2013-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43687'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Operas -- Librettos'
+title: 'Theophano: Oper in drei Aufzügen'
+url: http://www.gutenberg.org/ebooks/43687
